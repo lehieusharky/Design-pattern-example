@@ -12,7 +12,12 @@ public class ThemeManager {
 
     public static ThemeManager getInstance() {
         if (themeManager == null) {
-            themeManager = new ThemeManager();
+            // multi thread => sync solution
+            synchronized (ThemeManager.class) {
+                if (themeManager == null) {
+                    themeManager = new ThemeManager();
+                }
+            }
         }
         return themeManager;
     }
