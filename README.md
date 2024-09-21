@@ -1,23 +1,13 @@
 # Design Pattern Playlist - Sharky Coding
 
 ## Giới thiệu
-Chào mừng bạn đến với playlist về Design Patterns!
+Chào mừng bạn đến với playlist về Design Patterns! Lưu ý mình chỉ lưu source code của các ví dụ lí thuyết còn code về thực hành bạn xem tham khảo trên Youtube nha và code lưu cũng khá conflict nên hãy đối chiếu với video trên Youtube kk. Thanks all.
 
-## Mục lục
-1. [Design Patterns PlayPlist]([#giới-thiệu-về-design-patterns](https://www.youtube.com/watch?v=J5zOok-wmbE&list=PLKwVW2rSO9X5bxlmtd1VjEag1Uy6vmTWu&pp=iAQB))
-2. [Danh sách video trong playlist](#danh-sách-video-trong-playlist)
-3. [Liên hệ](#liên-hệ)
-
-## Giới thiệu về Design Patterns
-Design Patterns là các giải pháp đã được chứng minh cho các vấn đề thiết kế phần mềm. Chúng cung cấp một ngôn ngữ chung cho các lập trình viên và giúp tăng tính tái sử dụng mã nguồn.
-
-## Danh sách video trong playlist
-1. [Video 1: Giới thiệu về Design Patterns](https://www.youtube.com/watch?v=example1)
-2. [Video 2: Mẫu thiết kế Singleton](https://www.youtube.com/watch?v=example2)
-3. [Video 3: Mẫu thiết kế Factory](https://www.youtube.com/watch?v=example3)
-4. [Video 4: Mẫu thiết kế Observer](https://www.youtube.com/watch?v=example4)
+## URL
+[Design Pattern Youtube Videos URL](https://www.youtube.com/playlist?list=PLKwVW2rSO9X5bxlmtd1VjEag1Uy6vmTWu)
 
 ## Liên hệ
-Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào, hãy liên hệ với tôi qua [email của bạn](mailto:your-email@example.com).
+Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào, hãy liên hệ với tôi qua 
+[Gmail](lehieultt@gmail.com).
 
-Cảm ơn bạn đã theo dõi playlist này!
+Cảm ơn bạn đã theo dõi playlist này! 
