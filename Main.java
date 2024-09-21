@@ -1,13 +1,22 @@
 public class Main {
     public static void main(String[] args) {
-        // client want to use working method of realservice
-        // but apply proxy pattern
-        // we also access client use working method
-        // but now client is working with proxy instead of realService
-        ProxyService proxyService = new ProxyService();
 
-        proxyService.working(); // use Realservice contructor
+        Screen screen;
+        String input = "homePage";
+        switch (input) {
+            case "login":
+                screen = new LoginScreen();
+                break;
+            case "homePage":
+                screen = new HomePage();
+                break;
 
-        proxyService.working(); // don't use RealService constructor
+            default:
+                screen = new HomePage();
+                break;
+        }
+
+        screen.onPressed();
+
     }
 }
