@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
         Screen screen;
         String input = "homePage";
         switch (input) {
@@ -16,5 +17,6 @@ public class Main {
         }
 
         screen.onPressed();
+
     }
 }
